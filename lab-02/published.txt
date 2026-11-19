@@ -1,0 +1,1 @@
+ghcr.io/olenapopova05/catshop-lab-02@sha256:fa6630211478438c8afaecd89000f4d7e53c5b57323046e0cb415c3f4f353e7c
